@@ -8,7 +8,7 @@ public class SavingsTest {
 
     @BeforeEach
     public void setUp() {
-        savings = new Savings(00000001, 7.9);
+        savings = new Savings(87654321, 7.9);
     }
 
     @Test
